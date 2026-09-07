@@ -6,5 +6,3 @@ plugins {
     alias(libs.plugins.ksp) apply false
 }
 
-git add .
-git commit -m "Initial commit: Room DB notes app setup"
