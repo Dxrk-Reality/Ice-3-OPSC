@@ -97,3 +97,4 @@ fun NoteScreen(modifier: Modifier = Modifier, viewModel: NoteViewModel = viewMod
         }
     }
 }
+
